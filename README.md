@@ -10,8 +10,8 @@
 - - **Full Name:** `Jeremy Odei`
 - **CCID:** `jkodei`
 
-- - **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- - **Full Name:** `<Paul Adewakun>`
+- **CCID:** `<Adewakun>`
 
 - - **Full Name:** `<Enter name>`
 - **CCID:** `<Enter ccid>`

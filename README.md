@@ -4,8 +4,8 @@
 - **Full Name:** `Oluwajomiloju Adebisi-Olusola`
 - **CCID:** `adebisio`
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Onakeno Erivona`
+- **CCID:** `onakeno`
 
 - - **Full Name:** `<Enter name>`
 - **CCID:** `<Enter ccid>`

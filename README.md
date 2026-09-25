@@ -10,11 +10,11 @@
 - - **Full Name:** `Jeremy Odei`
 - **CCID:** `jkodei`
 
-- - **Full Name:** `<Paul Adewakun>`
-- **CCID:** `<Adewakun>`
+- - **Full Name:** `Paul Adewakun`
+- **CCID:** `Adewakun`
 
 - - **Full Name:** `Precious Olabode`
 - **CCID:** `olabode1`
   
 - - **Full Name:** `Oluwafikayo Ebyn-Ahisu`
-- **CCID:** `<oebynahi>`
+- **CCID:** `oebynahi`

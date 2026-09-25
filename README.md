@@ -13,8 +13,8 @@
 - - **Full Name:** `<Paul Adewakun>`
 - **CCID:** `<Adewakun>`
 
-- - **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- - **Full Name:** `Precious Olabode`
+- **CCID:** `olabode1`
   
-- - **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- - **Full Name:** `Oluwafikayo Ebyn-Ahisu`
+- **CCID:** `<oebynahi>`

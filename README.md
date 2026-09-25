@@ -1,2 +1,20 @@
-# avatar
-Lab 4 Practice Exercise
+# CMPUT 301: Lab 4 Participation Exercise
+
+## Student Details
+- **Full Name:** `Oluwajomiloju Adebisi-Olusola`
+- **CCID:** `adebisio`
+
+- **Full Name:** `<Enter name>`
+- **CCID:** `<Enter ccid>`
+
+- - **Full Name:** `<Enter name>`
+- **CCID:** `<Enter ccid>`
+
+- - **Full Name:** `<Enter name>`
+- **CCID:** `<Enter ccid>`
+
+- - **Full Name:** `<Enter name>`
+- **CCID:** `<Enter ccid>`
+  
+- - **Full Name:** `<Enter name>`
+- **CCID:** `<Enter ccid>`

@@ -7,8 +7,8 @@
 - **Full Name:** `Onakeno Erivona`
 - **CCID:** `onakeno`
 
-- - **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- - **Full Name:** `<Jeremy Odei`
+- **CCID:** `jkodei`
 
 - - **Full Name:** `<Enter name>`
 - **CCID:** `<Enter ccid>`
